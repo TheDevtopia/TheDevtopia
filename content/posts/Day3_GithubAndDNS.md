@@ -9,3 +9,8 @@ CodeWithKarma
 It helped me in creating new SSH keys and then push all the files to the github website.
 However I am unable to host the website because of DNS issues. CNAME problem and when I worked with github actions it is giving 404 error.
 Will work on it tomorrow.
+
+The git commands to remember
+git add .
+git commit -m "Write you own message"
+git push origin main
