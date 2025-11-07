@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <title>Day 3: Github Success but DNS fail</title>
+      <link>http://localhost:1313/posts/day3_githubanddns/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/day3_githubanddns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Day 2: Blowfish Theme Success But Github Fail</title>
+      <link>http://localhost:1313/posts/day2_settinguptheme/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/day2_settinguptheme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Day 1: Blowfish Theme</title>
+      <link>http://localhost:1313/posts/day1_blowfishtheme/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/posts/day1_blowfishtheme/</guid>
       <description></description>
       
     </item>
