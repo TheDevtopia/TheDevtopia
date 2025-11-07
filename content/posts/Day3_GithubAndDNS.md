@@ -3,6 +3,7 @@ title: "Day 3: Github Success but DNS fail"
 date: 2025-11-06
 draft: false
 ---
+<p>
 Followed this youtube video
 Error fixed: could not read from remote repository | Github Error: https://www.youtube.com/watch?v=p6Bm1ybdwA4 by 
 CodeWithKarma
@@ -14,3 +15,4 @@ The git commands to remember
 git add .
 git commit -m "Write you own message"
 git push origin main
+</p>
