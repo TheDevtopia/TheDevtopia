@@ -18,8 +18,7 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
-[[module.imports]]
-path = "github.com/nunocoracao/blowfish/v2"
+
 
 [pagination]
   pagerSize = 100
