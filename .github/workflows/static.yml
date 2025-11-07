@@ -1,5 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy Hugo site to Pages
 
 on:
   push:
@@ -25,20 +24,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      # Add this step to install Hugo!
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest' 
+          hugo-version: 'latest'
 
-      # Build the site
       - name: Build with Hugo
         run: hugo
 
-      # Upload the build output (public/)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
